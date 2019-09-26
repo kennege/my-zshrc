@@ -14,8 +14,6 @@ My zshrc file, which implements oh-my-zsh with agnoster theme, syntax highlighti
 ```{p}
 right click --> preferences --> Profiles (tab) --> untick "show titlebar"
 ```
-To also add syntax highlighting to vim:
-
 
 
 [zsh]: https://github.com/robbyrussell/oh-my-zsh "oh-my-zsh"
