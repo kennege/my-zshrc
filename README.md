@@ -11,6 +11,7 @@ My zshrc file, which implements oh-my-zsh with agnoster theme, syntax highlighti
 ![optional caption text](example.png)
 
 ## Tips
+To remove the red bar:
 ```{p}
 right click --> preferences --> Profiles (tab) --> untick "show titlebar"
 ```
